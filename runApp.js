@@ -1,3 +1,3 @@
 import app from './app.js';
 
-app();
+app(['#b60015', '#d08100'], [1, 1]);

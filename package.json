@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/NYX1122/Color_Mixer/issues"
   },
-  "homepage": "https://github.com/NYX1122/Color_Mixer#readme"
+  "homepage": "https://github.com/NYX1122/Color_Mixer#readme",
+  "dependencies": {
+    "chroma-js": "^2.4.2"
+  }
 }
