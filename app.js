@@ -1,5 +1,3 @@
-const app = async function () {
+module.exports = async function () {
   console.log('Hello');
 };
-
-app();
