@@ -1,3 +1,3 @@
-module.exports = async function () {
-  console.log('Hello');
-};
+export default function () {
+  console.log('Hello World');
+}

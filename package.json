@@ -1,6 +1,7 @@
 {
   "name": "color_mixer",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "app.js",
   "scripts": {
